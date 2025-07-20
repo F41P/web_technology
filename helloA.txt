@@ -1,1 +1,5 @@
-hello B
+<<<<<<< HEAD
+hello BB
+=======
+hello
+>>>>>>> c0f5e733c76ffaa94b0e57274e959bf3df3a8f54
